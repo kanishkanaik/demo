@@ -2,4 +2,4 @@
 <br>
 This is a demo repository.
 <br>
-Author - kanishka
+Author - kanishka Naik
